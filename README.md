@@ -1,4 +1,4 @@
-# CSV to Databricks Unity Catalog Table Converter
+# Java Program to read CSV and write to Databricks Unity Catalog Table
 
 A Java application that reads CSV files from Databricks volumes and writes them to Databricks Unity Catalog tables using Apache Spark.
 
